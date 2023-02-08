@@ -1,0 +1,1 @@
+to={`/post/${post.p_id}`}
